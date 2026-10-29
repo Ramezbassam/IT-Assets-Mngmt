@@ -1,0 +1,158 @@
+/* === Brand variables (edit these) === */
+:root {
+  --brand-bg: #F8F8F8;       
+  --brand-primary: #fff;    /* main button color */
+  --brand-accent: #000;     /* optional accent */
+  --brand-text: #000;       /* text on dark background */
+  --brand-font: "Segoe UI", Roboto, sans-serif;
+}
+
+/* Page background */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: var(--brand-font);
+  background: var(--brand-bg);
+  color: var(--brand-text);
+}
+
+.login-page {
+	
+	background-color: #F8F8F8;
+}
+/* Centering the login form */
+.container, .row, .col-md-4 {
+  height: 100%;
+}
+.col-md-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Login box */
+.login-box {
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  width: 100%;
+  max-width: 380px;
+}
+
+/* Header */
+.login-box .box-header {
+  background-color: #DC291E !important;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.login-box .box-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0;
+}
+
+/* Body */
+.login-box-body {
+  padding: 24px;
+}
+
+/* Alerts & notifications */
+.alert-info {
+  background: rgba(0, 120, 212, 0.15);
+  border: none;
+  color: var(--brand-text);
+}
+
+/* Labels */
+.login-box-body label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #000 !important;
+}
+
+/* Form controls */
+.form-control {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--brand-text);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 15px;
+}
+.form-control:focus {
+  outline: none;
+  border-color: var(--brand-primary);
+  box-shadow: 0 0 0 3px rgba(0,120,212,0.25);
+}
+
+/* Error messages */
+.has-error .form-control {
+  border-color: #e63946;
+}
+.alert-msg {
+  color: #e63946;
+  font-size: 13px;
+}
+
+/* Remember me checkbox */
+.form-control input[type="checkbox"] {
+  margin-right: 8px;
+}
+label.form-control {
+  background: transparent;
+  border: none;
+  color: var(--brand-text);
+  padding: 0;
+}
+
+/* Footer */
+.box-footer {
+  padding: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Buttons */
+.btn-primary {
+  background: #DC291E;	/*linear-gradient(90deg, var(--brand-primary), var(--brand-accent));*/
+  border: none;
+  color: #fff !important;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 10px 14px;
+  transition: background 0.3s ease;
+}
+/*.btn-primary:hover {
+  background: linear-gradient(90deg, var(--brand-accent), var(--brand-primary));
+}*/
+
+/* Google login button (if enabled) */
+.btn-google {
+  background: #db4437;
+  color: #fff !important;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+.btn-google:hover {
+  background: #c1351d;
+}
+
+/* Links (forgot password, etc.) */
+a {
+  color: var(--brand-accent);
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  .login-box {
+    margin: 20px;
+  }
+}

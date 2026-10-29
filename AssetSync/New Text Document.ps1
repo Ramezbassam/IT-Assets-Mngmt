@@ -1,0 +1,1 @@
+Write-Host "=== Snipe-IT Telemetry & Network Audit ===" -ForegroundColor Cyan

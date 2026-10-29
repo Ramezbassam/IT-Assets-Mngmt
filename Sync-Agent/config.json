@@ -1,0 +1,36 @@
+
+
+
+{
+  "ApiUrl": "http://192.168.11.186:8000",
+  "ApiKey": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMzgxMjA0M2Y3ZTQ2M2E4N2Q5YWU5NjI1YjI1ZWJjNTU4MzExNGYyYTlkOWRjYjQ0YWY2NDE5ZjZiYTViODRkNGIwMjZlMWQ5ZWRjYWJkZTYiLCJpYXQiOjE3NzYwMDMxMDcuMTY0MDA5LCJuYmYiOjE3NzYwMDMxMDcuMTY0MDEzLCJleHAiOjIyNDkzODg3MDcuMTA4ODgzLCJzdWIiOiIyIiwic2NvcGVzIjpbXX0.htZwgyZC13ZBM6YNQwPh78xO7msqS9Cyh6cx7UgXBQMOcJbQQpKUGWW8Ivj_eeDNs3IsO1MvXP5HPHbiAqfoEo6vxNlSm8rAGkOu6J3jQ8NKwYV5ltj3Xno0MmtepjpVop_cHP_vz4o5d0mXE1Ci5i2ESll_6iamiAGcfcu-2zNgIMxZtF2OID9WIByDi9wY5lX7NU337XaEqgXAo4UlMHI9qL4kDmh05plEtNmuovFW6lgJtrZd-0LAf0zsdIeVDbe9XR0fb1koHzYC03RpB_ktTwpQfuO7erYL2sbZ3NTHi6djsoyUBFxAwHr4_44jm9ZCSebDVC9edo2f4is2xVXRrf9zAdrFGeNc54eD-Kf0_c6UwGd5yV_M645XGvo7kNPoCBLvykEZnxZXkryN7rpmt0pKmcRwHrXSJcrI0rXUU7bMZ8Y1Bf-ibuAUvdEpTkST5Wlgya68v-UEMe-hwqnH9JeDlHicO3J1k7uX9-DCce55KDiMMnAXnOymwoblFiPkwL0n0hOh1UmX08Yfaorqxu_NOcjSOTQVmk1fymxNidkJ3guQYbd4_Ooj02NBiRbaXtYNThOqIMc2o1J8ckws-_5f2yDcx21FRRo7Lhiij8SXpmjiSGcwESctg1fxC4tQ9x_hqc7SLYvdX6ZeGpgAZ-SmqDkuxrbw7ayKPCU",
+  "IncomingFolder": "Incoming",
+  "ArchiveFolder": "Archive",
+
+  "CsvModelColumn": "Product",
+  "CsvCategoryColumn": "Asset Type",
+  "CsvSerialColumn": "Serial Number",
+  "CsvAssetTagColumn": "Asset Tag",
+  "CsvStatusColumn": "Status", 
+
+  "FieldMapping": {
+    
+    "name": "Name",
+	"asset_tag": "Asset Tag",
+    "serial": "Serial Number",
+    "model": "Product",
+    "assigned_to": "Last login by",
+    "status_label": "Status",
+    "location": "Location",
+    "notes": "Description",
+    "department": "Department",
+	"_snipeit_mac_address_1": "MAC Address"
+    
+  },
+
+  "NewModelDefaults": {
+
+    "manufacturer_id": null,
+    "fieldset_id": null
+  }
+}

@@ -1,0 +1,26 @@
+
+{
+  "snipeIt": {
+    "apiUrl": "http://10.42.100.10:50101",
+    "apiKey": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNmY0MDliZDYyMGY4Y2VlN2Y1ZmViNGJjMGM2OTI1NzQyZjlkNThiZTM4N2Y2M2I2ZWY1MTRiZThlMWRmMjIzNTU3ODRkMzJlZjg1ODFiMjciLCJpYXQiOjE3NTk4MjcxMDYuMTYxNjczLCJuYmYiOjE3NTk4MjcxMDYuMTYxNjc4LCJleHAiOjIyMzMyMTI3MDYuMDg0MjE5LCJzdWIiOiIzMDciLCJzY29wZXMiOltdfQ.nsdYwsnBttbcdTEKGx7NVUP9VUlWo45IiBjoQxqUcZdmjfVRPSLL6t4DZsEAHu7A_JNOShaUFUAY9xCBbyw8uQYq_aFgEVPWzyOA26hVyka729qNJ3hsKlC5RUuXcAU7xv8mNSxUeC-7AadOHnx9QpggleF3pKSIGmGbhWY1Mu8ACnzd9rDURKpMa8yNEsPjBGPwV-ViwEYTHFPurP4yRNIx0vHYLO_RVJdB9U8AOSpsf0wt4SAiU2MhiHvzjYAjHTo9h8ySxMiA6kAI_uCjDFkKXXgrY-_H_t2DXQdZ9JL3oeg1bBmdO_nf9_6tXmqHtolSjkOy7oqBfnKKftXP4Nn3lheEztOlozM6FGiWsaWAUIUBdSvXQqbfSsorlAQcHWcVWNT9f4S3qElQdV1KnEjf4A60IxKay_ZlKllMx1vxk5MKJ6jdr_XHA-tNFOe__9hLszxUS-95oUsSasLCHvi_IpDgUMv1kMut0PZKA4ha4GITPnq-w0exUCH3i4oTC8ukMgpN1BkrRv89kNlmt79-Z177dMdw-1vzqzC3-h7Plv1e9XVduH6435sraisp9MwbLm56qUDZYog9YRV5xM2pH8pt76kJcfFFgLzv2tHr3bm_IzLVTfstFWjuy3m7oURud-jNe_uHm4TrAc4zJhoN2svIAbMJPlwcZKeE8AU"
+  },
+  "scriptSettings": {
+    "dropFolder": "C:\\Scripts\\AssetSync\\Incoming",
+    "archiveFolder": "C:\\Scripts\\AssetSync\\Archive",
+    "uniqueIdentifier": {
+      "freshserviceCsvHeader": "Serial Number",
+      "snipeItApiField": "serial"
+    }
+  },
+  "fieldMapping": {
+    "Asset Tag": "asset_tag",
+    "Serial Number": "serial",
+    "Product": "model",
+    "Used By": "assigned_to",
+    "Status": "status_label",
+    "Location": "location",
+    "Description": "notes",
+    "Department": "department",
+	"MAC Address": "_snipeit_mac_address_1"
+  }
+}

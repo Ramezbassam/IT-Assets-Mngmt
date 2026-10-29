@@ -1,0 +1,62 @@
+2026-08-19 14:36:02 | INFO | ======================================================================
+2026-08-19 14:36:02 | INFO | Starting Device Inventory
+2026-08-19 14:36:02 | INFO | ======================================================================
+2026-08-19 14:36:02 | INFO | Loaded 294 devices from input workbook.
+2026-08-19 14:36:02 | INFO | Loaded 0 existing inventory records.
+2026-08-19 14:36:02 | INFO | Using 10 worker threads.
+2026-08-19 14:36:02 | INFO | Full inventory jobs : 294
+2026-08-19 14:36:02 | INFO | Disk repair jobs     : 0
+2026-08-19 14:36:02 | INFO | Skipped jobs         : 0
+2026-08-19 14:36:05 | ERROR | FLEX9 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:05 | ERROR | FLEX10 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:05 | ERROR | FLEX2 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:05 | ERROR | FLEX4 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:05 | ERROR | FLEX6 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:05 | ERROR | FLEX7 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:07 | ERROR | FLEX13 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:07 | ERROR | FLEX11 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:08 | ERROR | FLEX16 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:10 | ERROR | FLEX18 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:10 | ERROR | FLEX19 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:36:12 | ERROR | FLEX20 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:48 | INFO | ======================================================================
+2026-08-19 14:40:48 | INFO | Starting Device Inventory
+2026-08-19 14:40:48 | INFO | ======================================================================
+2026-08-19 14:40:48 | INFO | Loaded 294 devices from input workbook.
+2026-08-19 14:40:48 | INFO | Loaded 0 existing inventory records.
+2026-08-19 14:40:48 | INFO | Using 5 worker threads.
+2026-08-19 14:40:48 | INFO | Full inventory jobs : 294
+2026-08-19 14:40:48 | INFO | Disk repair jobs     : 0
+2026-08-19 14:40:48 | INFO | Skipped jobs         : 0
+2026-08-19 14:40:50 | ERROR | FLEX4 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:50 | ERROR | FLEX2 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:52 | ERROR | FLEX6 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:52 | ERROR | FLEX7 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:55 | ERROR | FLEX9 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:57 | ERROR | FLEX10 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:40:57 | ERROR | FLEX5 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:46:58 | INFO | ======================================================================
+2026-08-19 14:46:58 | INFO | Starting Device Inventory
+2026-08-19 14:46:58 | INFO | ======================================================================
+2026-08-19 14:46:58 | INFO | Loaded 294 devices from input workbook.
+2026-08-19 14:46:58 | INFO | Loaded 0 existing inventory records.
+2026-08-19 14:46:58 | INFO | Using 1 worker threads.
+2026-08-19 14:46:58 | INFO | Full inventory jobs : 294
+2026-08-19 14:46:58 | INFO | Disk repair jobs     : 0
+2026-08-19 14:46:58 | INFO | Skipped jobs         : 0
+2026-08-19 14:47:10 | ERROR | FLEX1 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:47:13 | ERROR | FLEX2 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:47:57 | ERROR | FLEX3 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:47:59 | ERROR | FLEX4 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:48:43 | ERROR | FLEX5 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:48:46 | ERROR | FLEX6 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:48:48 | ERROR | FLEX7 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:49:32 | ERROR | FLEX8 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:49:34 | ERROR | FLEX9 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:49:37 | ERROR | FLEX10 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:49:39 | ERROR | FLEX11 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:49:52 | ERROR | FLEX12 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:49:54 | ERROR | FLEX13 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:49:56 | ERROR | FLEX14 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
+2026-08-19 14:50:40 | ERROR | FLEX15 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemLocator', 'The RPC server is unavailable. ', None, 0, -2147023174), None)
+2026-08-19 14:50:42 | ERROR | FLEX16 -> failed: (-2147352567, 'Exception occurred.', (0, 'SWbemObjectSet', 'Unspecified error ', None, 0, -2147467259), None)
